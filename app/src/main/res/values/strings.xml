@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">2019MAD</string>
+    <string name="LoginString">Login</string>
+    <string name="Reg">Register</string>
+    <string name="Pass">Password</string>
+    <string name="useer">Username</string>
+    <string name="AdminPanel">Admin Panel</string>
+    <string name="Add">Add</string>
+    <string name="games">Games</string>
+    <string name="Rate">Rate</string>
+    <string name="com">Comments</string>
+    <string name="Submit">Submit</string>
+    <string name="CurrentRatting">Current Ratting</string>
+</resources>
